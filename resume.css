@@ -1,0 +1,90 @@
+
+#customn{
+  color: white;
+ }
+
+#navc{
+  margin-bottom: 10%;
+}
+
+.nav-pills {
+  font-size: 1.7em;
+  margin-bottom: 20%;
+  margin-bottom:20%;
+}
+
+.body{
+  font-family: 'Bellefair', serif;
+  color:  white;
+}
+
+#h1id{
+  padding: 0;
+  margin-top: 0px;
+  font-size: 5.0em;
+}
+
+#b1{
+  background-color: pink;
+  border-color: pink;
+}
+
+.middle-block{
+  border-radius: 10px;
+  background-color: black;
+  margin-left: 98px;
+  margin-right: 98px;
+  opacity: .4;
+  padding: 10px;
+ }
+
+.work-block{
+  border-radius: 10px;
+  background-color: black;
+  margin-left: 98px;
+  margin-right: 98px;
+  opacity: .4;
+  padding: 10px;
+}
+
+#languages{
+  font-size: 2.0em;
+}
+
+#links{
+  font-size: 2.0em;
+}
+
+.btn-default{
+ background-color: pink;
+ border-color: pink;
+}
+
+.page-one {
+ background-color: #78909c;
+ height:800px;
+}
+
+.page-two {
+ padding-top: 5%;
+ background: #90a4ae;
+ height:800px;
+}
+
+#About-Me{
+  font-size: 2.0em;
+  margin-left: 98px;
+  margin-right: 98px;
+}
+
+.page-three{
+  padding-top: 5%;
+  background: #b0bec5;
+  height:800px;
+}
+
+.page-four{
+  padding-top: 5%;
+  background: #cfd8dc;
+  height:800px;
+}
